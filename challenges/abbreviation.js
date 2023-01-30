@@ -1,6 +1,4 @@
 function abbreviation(a, b) {
-    a = "AbcDE";
-    b = "ABDE";
     let aCaptalize = a.toUpperCase();
     let n = aCaptalize.length;
     let m = b.length;
